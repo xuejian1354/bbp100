@@ -1,0 +1,6 @@
+#ifndef _SYSINFOHW_TEST_H_
+#define _SYSINFOHW_TEST_H_
+
+#define SERNUM_LENGTH 32
+
+#endif  //_SYSINFOHW_TEST_H_
