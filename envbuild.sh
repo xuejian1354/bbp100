@@ -2,4 +2,4 @@
 
 source build/envsetup.sh
 lunch imx6_bbp-user
-make
+make -j
